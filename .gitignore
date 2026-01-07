@@ -20,3 +20,13 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+
+# Flutter/Dart
+.dart_tool/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# IDE
+.idea/
+*.iml
